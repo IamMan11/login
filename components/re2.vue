@@ -10,11 +10,11 @@
           <div class=" mt-5 ml-2 text-2xl">
               Address
           </div>
-          <div class="flex w-96 mt-2 tems-center rounded-[28px] p-[8px] bg-transparent border border-solid border-black" >
+          <div class="flex w-96 mt-2 tems-center rounded-[28px] p-[8px] bg-white border border-solid border-black" >
               <span class="pr-2"> 
                     <i class="fa-solid "></i>
               </span>
-              <input type=" text " placeholder="Enter" class="bg-transparent focus:outline-none placeholder:text-black" style="width: 300px;">
+              <input type=" text " placeholder="Enter" class="bg-white focus:outline-none placeholder:text-black" style="width: 300px;">
           </div>
           <br>
           <br>
@@ -27,17 +27,17 @@
             </div>
           </div>
           <div class="flex flex-raw ml-1 items-start justify-between">
-            <div class="flex w-52 mt-2 tems-center rounded-[28px] p-[8px] bg-transparent border border-solid border-black" >
+            <div class="flex w-52 mt-2 tems-center rounded-[28px] p-[8px] bg-white border border-solid border-black" >
               <span class="pr-2"> 
                     <i class="fa-solid "></i>
               </span>
-              <input type=" text " placeholder="Enter" class="bg-transparent focus:outline-none placeholder:text-black" style="width: 300px;">
+              <input type=" text " placeholder="Enter" class="bg-white focus:outline-none placeholder:text-black" style="width: 300px;">
           </div>
-          <div class="flex w-52 mt-2 mr-14 tems-center rounded-[28px] p-[8px] bg-transparent border border-solid border-black" >
+          <div class="flex w-52 mt-2 mr-14 tems-center rounded-[28px] p-[8px] bg-white border border-solid border-black" >
               <span class="pr-2"> 
                     <i class="fa-solid "></i>
               </span>
-              <input type=" text " placeholder="Enter" class="bg-transparent focus:outline-none placeholder:text-black" style="width: 300px;">
+              <input type=" text " placeholder="Enter" class="bg-white focus:outline-none placeholder:text-black" style="width: 300px;">
           </div>
           </div>
           <br><br><br>
@@ -50,17 +50,17 @@
             </div>
           </div>
           <div class="flex flex-raw ml-1 items-start justify-between">
-            <div class="flex w-52 mt-2 tems-center rounded-[28px] p-[8px] bg-transparent border border-solid border-black" >
+            <div class="flex w-52 mt-2 tems-center rounded-[28px] p-[8px] bg-white border border-solid border-black" >
               <span class="pr-2"> 
                     <i class="fa-solid "></i>
               </span>
-              <input type=" text " placeholder="Enter" class="bg-transparent focus:outline-none placeholder:text-black" style="width: 300px;">
+              <input type=" text " placeholder="Enter" class="bg-white focus:outline-none placeholder:text-black" style="width: 300px;">
           </div>
-          <div class="flex w-52 h-32 mt-2 mr-14 tems-center rounded-[28px] p-[8px] bg-transparent border border-solid border-black" >
+          <div class="flex w-52 h-32 mt-2 mr-14 tems-center rounded-[28px] p-[8px] bg-white border border-solid border-black" >
               <span class="pr-2"> 
                     <i class="fa-solid "></i>
               </span>
-              <input type=" text " placeholder="Enter" class="bg-transparent focus:outline-none placeholder:text-black" style="width: 300px; margin-bottom: auto; overflow-wrap: break-word;">
+              <input type=" text " placeholder="Enter" class="bg-white focus:outline-none placeholder:text-black" style="width: 300px; margin-bottom: auto; overflow-wrap: break-word;">
           </div>
           </div>
           <br><br><br><br><br><br>

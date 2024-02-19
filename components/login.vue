@@ -1,7 +1,8 @@
 <template>
-<div  class="headerlogin flex  text-black justify-center">
-    <div class="loginblock bg-orange-200 rounded-3xl font-bold">
-        <div class="bg-red-500 h-10 w-10 ml-44 mt-5">
+<div  class="bgimg flex  text-black justify-center" style="margin-left: 750px; margin-top: 70px;">
+    <img src="/public/cafe1.jpg" class="bgimg">
+    <div class="loginblock bg-orange-200  rounded-3xl font-bold">
+        <div class="bg-red-500 h-10 w-10 ml-44 mt-5">   
             logo
         </div>
         <div class="bg-black w-cover h-1">
@@ -10,7 +11,7 @@
         <div class=" mt-5 ml-2 text-2xl">
             Email
         </div>
-        <div class="flex w-52 mt-2 tems-center rounded-[28px] p-[8px] bg-transparent border border-solid border-black" >
+        <div class="flex w-52 mt-2 tems-center rounded-[28px] p-[8px] bg-white border border-solid border-black" >
             <span class="pr-2"> 
                   <i class="fa-solid "></i>
             </span>
@@ -20,7 +21,7 @@
         <div class=" mt-5 ml-2 text-2xl">
             password
         </div>
-        <div class="flex w-52 mt-2 tems-center rounded-[28px] p-[8px] bg-transparent border border-solid border-black" >
+        <div class="flex w-52 mt-2 tems-center rounded-[28px] p-[8px] bg-white border border-solid border-black" >
             <span class="pr-2"> 
                   <i class="fa-solid "></i>
             </span>
@@ -28,14 +29,14 @@
         </div>
         <br>
         <br>
-        <div class="flex flex-row justify-between mx-5">
+        <div class="flex flex-row justify-between mx-5 text-black hover:font-bold">
             <button>
-                <a href="registerpage1">
+                <a href="registerpage1" class=" hover:text-gray-600">
                     Register
                 </a>
             </button>
             <button>
-                <a href="forgotpage1">
+                <a href="forgotpage1" class="hover:text-gray-600">
                     Forgot Password
                 </a>
             </button>
@@ -58,9 +59,11 @@ export default {
 </script>
 
 <style>
-.headerlogin{
-    background-image: url(cafe1.jpg);
-    height: 839px;
+.bgimg{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
 }
 .loginblock{
     height: 600px;

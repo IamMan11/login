@@ -10,37 +10,37 @@
           <div class=" mt-5 ml-2 text-2xl">
               User name(profile)
           </div>
-          <div class="flex w-96 mt-2 tems-center rounded-[28px] p-[8px] bg-transparent border border-solid border-black" >
+          <div class="flex w-96 mt-2 tems-center rounded-[28px] p-[8px] bg-white border border-solid border-black" >
               <span class="pr-2"> 
                     <i class="fa-solid "></i>
               </span>
-              <input type=" text " placeholder="Enter" class="bg-transparent focus:outline-none placeholder:text-black" style="width: 300px;">
+              <input type=" text " placeholder="Enter" class="bg-white focus:outline-none placeholder:text-black" style="width: 300px;">
           </div>
           <br>
           <div class=" mt-5 ml-2 text-2xl">
               Email
           </div>
-          <div class="flex w-96 mt-2 tems-center rounded-[28px] p-[8px] bg-transparent border border-solid border-black" >
+          <div class="flex w-96 mt-2 tems-center rounded-[28px] p-[8px] bg-white border border-solid border-black" >
               <span class="pr-2"> 
                     <i class="fa-solid "></i>
               </span>
-              <input type=" email" placeholder="Enter" class="bg-transparent focus:outline-none placeholder:text-black" style="width: 300px;">
+              <input type=" email" placeholder="Enter" class="bg-white focus:outline-none placeholder:text-black" style="width: 300px;">
           </div>
           <br>
           <div class=" mt-5 ml-2 text-2xl">
               Password
           </div>
-          <div class="flex w-96 mt-2 tems-center rounded-[28px] p-[8px] bg-transparent border border-solid border-black" >
+          <div class="flex w-96 mt-2 tems-center rounded-[28px] p-[8px] bg-white border border-solid border-black" >
               <span class="pr-2"> 
                     <i class="fa-solid "></i>
               </span>
-              <input type=" password" placeholder="Enter" class="bg-transparent focus:outline-none placeholder:text-black" style="width: 300px;">
+              <input type=" password" placeholder="Enter" class="bg-white focus:outline-none placeholder:text-black" style="width: 300px;">
           </div>
           <br>
           <div class=" mt-5 ml-2 text-2xl">
               Confirm Password 
           </div>
-          <div class="flex w-96 mt-2 tems-center rounded-[28px] p-[8px] bg-transparent border border-solid border-black" >
+          <div class="flex w-96 mt-2 tems-center rounded-[28px] p-[8px] bg-white border border-solid border-black" >
               <span class="pr-2"> 
                     <i class="fa-solid "></i>
               </span>
