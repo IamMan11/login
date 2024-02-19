@@ -1,5 +1,6 @@
 <template>
-  <div  class="headerre1 flex  text-black justify-center">
+  <div  class=" flex  text-black justify-center">
+     <img src="/public/cafe4.jpg" class="bgimg">
       <div class="registerblock  bg-orange-200 rounded-3xl font-bold">
           <div class="bg-red-500 h-10 w-10 ml-64 mt-5">
               logo
@@ -68,11 +69,6 @@
   </template>
   
   <style>
-  .headerre1{
-      background-image: url(/cafe4.jpg);
-      height: 839px;
-      width: 100%;
-  }
   .registerblock{
       height: 800px;
       width: 600px;

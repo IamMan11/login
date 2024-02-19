@@ -1,5 +1,6 @@
 <template>
-  <div  class="headerf3 flex  text-black justify-center">
+  <div  class=" flex  text-black justify-center">
+    <img src="/public/cafe8.jpg" class="bgimg">
       <div class="loginblock bg-orange-200 rounded-3xl font-bold">
           <div class="bg-red-500 h-10 w-10 ml-44 mt-5">
               logo
@@ -19,7 +20,7 @@
           <br>
           <div class=" mt-5 ml-2 text-2xl">
               New password
-          </div>
+          </div>    
           <div class="flex w-auto  mt-2 tems-center rounded-[28px] p-[8px] bg-white border border-solid border-black" >
               <span class="pr-2"> 
                     <i class="fa-solid "></i>
@@ -42,10 +43,6 @@
   </template>
   
   <style>
-  .headerf3{
-      background-image: url(/cafe8.jpg);
-      height: 839px;
-  }
   .loginblock{
       height: 600px;
       width: 400px;
