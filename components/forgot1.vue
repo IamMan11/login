@@ -2,7 +2,7 @@
   <div  class=" flex  text-black justify-center">
     <img src="/public/cafe6.jpg" class="bgimg">
       <div class="loginblock bg-orange-200 rounded-3xl font-bold">
-          <div class="bg-red-500 h-10 w-10 ml-44 mt-5">
+          <div class="h-10 w-10 ml-44 mt-5">
               logo
           </div>
           <div class="bg-black w-cover h-1">
